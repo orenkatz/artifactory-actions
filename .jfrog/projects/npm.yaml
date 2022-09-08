@@ -1,8 +1,5 @@
 version: 1
 type: npm
-resolver:
-  repo: npm-remote
-  serverId: http://localhost/
 deployer:
   repo: npm
-  serverId: http://localhost/
+  serverId: local
