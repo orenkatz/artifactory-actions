@@ -1,5 +1,5 @@
 {
-  "name": "npm-example",
+  "name": "npm-github-actions",
   "version": "0.0.11",
   "scripts": {
     "start": "node helloworld"
